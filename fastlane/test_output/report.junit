@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<testsuites name='iOS AppTests.xctest' tests='2' failures='0'>
-  <testsuite name='iOS_AppTests.iOS_AppTests' tests='2' failures='0'>
-    <testcase classname='iOS_AppTests.iOS_AppTests' name='testExample' time='0.002'/>
-    <testcase classname='iOS_AppTests.iOS_AppTests' name='testPerformanceExample' time='0.329'/>
-  </testsuite>
-</testsuites>

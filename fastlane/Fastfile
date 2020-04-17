@@ -2,25 +2,28 @@ default_platform(:ios)
 
 platform :ios do
   lane :workshop do
-    milan
-    # sergio
-    petar
-    carlo
-    niels
-    mario
-    rajesh
-    jinal
-    ziya
-    joris
-    luciano
-    socratis
-    frank
-    debi
-    the_illest
-    # dana
-    serdar
-    uditha
-    fancysida
-    jordan
+
+    # Dunya
+    puts "Dunya"
+
+    # Jeroen
+    time = Time.now.strftime("%d/%m/%Y %H:%M")
+    puts "You can't go! #{time}"
+
+    # Diogo
+    puts "Hello world!"
+
+    # Jan
+    puts rand(1..10)
+
+    # Erik
+    # exit(1, "Erik is being a smart dude!")
+
+    # Qigunag
+    puts "continuen"
+
+    # Dide
+    y = 8
+    puts "The value of y is #{y}"
   end
 end
