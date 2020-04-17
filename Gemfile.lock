@@ -1,3 +1,118 @@
+GIT
+  remote: https://github.com/51d4/fastlane-plugin-testPlugin
+  revision: 86da5e6175f4197491c92067a2e735f8b2361917
+  specs:
+    fastlane-plugin-fancysida (0.1.0)
+
+GIT
+  remote: https://github.com/BakhtarSobat/fastlane-plugin-the_illest
+  revision: 0be8733e53df2d3f7c67712e795cfbe471ab2a0e
+  specs:
+    fastlane-plugin-the_illest (0.1.0)
+
+GIT
+  remote: https://github.com/Niels-Robben/fastlane-plugin-niels
+  revision: 46318757dc8880331322bf9fb3e5bc8fea79be38
+  specs:
+    fastlane-plugin-niels (0.1.5)
+      rqrcode
+
+GIT
+  remote: https://github.com/PetarAnastasov/fastlane-plugin-petar
+  revision: a79f4c741c96fafa738962ee6d980c65294cd57c
+  specs:
+    fastlane-plugin-petar (0.1.0)
+
+GIT
+  remote: https://github.com/SocratisM/fastlane-plugin-socratis
+  revision: 11803d787cfcf5cae467bda66bb2b9f46b39c696
+  specs:
+    fastlane-plugin-socratis (0.1.0)
+
+GIT
+  remote: https://github.com/cmatulessy/fastlane-plugin-carlo
+  revision: a229f4e332e892279a7b608a352a1ede94d24aef
+  specs:
+    fastlane-plugin-carlo (0.1.0)
+
+GIT
+  remote: https://github.com/debidutt87/fastlane-plugin-debi
+  revision: d72b18389241ecd6c824cd637777c505bb378add
+  specs:
+    fastlane-plugin-debi (0.1.0)
+
+GIT
+  remote: https://github.com/frankdeboer1985/fastlane-plugin-frank
+  revision: d132f04a7784f806a52612d06bbcc4d8cb573d7d
+  specs:
+    fastlane-plugin-frank (0.1.0)
+
+GIT
+  remote: https://github.com/jinal90/fastlane-plugin-jinal
+  revision: a9c444d3128fd8cf791b8494a20c6b524747614b
+  specs:
+    fastlane-plugin-jinal (0.1.0)
+
+GIT
+  remote: https://github.com/jorisvg/fastlane-plugin-joris
+  revision: 8fa079d262bf1e9c5a76be851d54f2982a13d2d4
+  specs:
+    fastlane-plugin-joris (0.1.0)
+
+GIT
+  remote: https://github.com/lucianoluzzi/fastlane_plugin_luciano
+  revision: eaf464940ddcafdd0532b4d7522d66e3317641b8
+  specs:
+    fastlane-plugin-luciano (0.1.0)
+
+GIT
+  remote: https://github.com/marionegroponzi/fastlane-plugin-mario
+  revision: e2561433b980c0c0506d4e72e101cbe6e520ccc5
+  specs:
+    fastlane-plugin-mario (0.1.0)
+
+GIT
+  remote: https://github.com/mderuiter/fastlane-plugin-milan
+  revision: 6eb9921366c63f569bfea6ed565239ae433a38c7
+  specs:
+    fastlane-plugin-milan (0.1.0)
+
+GIT
+  remote: https://github.com/sergiogiucastro/fastlane-plugin-sergio
+  revision: 46cdf6f87e617476e9fe5f8747e9c08db88db789
+  specs:
+    fastlane-plugin-sergio (0.1.0)
+
+GIT
+  remote: https://github.com/thejordan/dunyas-fastlane-workshop
+  revision: 5d170255e3559696de449dba843a5c4db0ba0314
+  specs:
+    fastlane-plugin-jordan (0.1.0)
+
+GIT
+  remote: https://github.com/udithaR/fastlane-plugin-uditha
+  revision: a746520227e8a4a192e240b8389bd3464bc56204
+  specs:
+    fastlane-plugin-uditha (0.1.0)
+
+GIT
+  remote: https://github.com/whizbuff/fastlane-plugin-rajesh
+  revision: 617bd78e9d71e39337758d0af875b78a1cd84cd4
+  specs:
+    fastlane-plugin-rajesh (0.1.0)
+
+GIT
+  remote: https://github.com/yillars/fastlane-plugin-serdar
+  revision: 5d1cd7fc043d4de044f715c56bec789fe56b6bf8
+  specs:
+    fastlane-plugin-serdar (0.1.0)
+
+GIT
+  remote: https://github.com/ziyabal/fastlane-plugin-ziya
+  revision: fb42ac8a0d01d6e342a214c9828602b8c57e26f8
+  specs:
+    fastlane-plugin-ziya (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -22,6 +137,7 @@ GEM
     aws-sigv4 (1.1.1)
       aws-eventstream (~> 1.0, >= 1.0.2)
     babosa (1.0.3)
+    chunky_png (1.3.11)
     claide (1.0.3)
     colored (1.2)
     colored2 (3.1.2)
@@ -103,13 +219,13 @@ GEM
       google-cloud-core (~> 1.2)
       googleauth (~> 0.9)
       mini_mime (~> 1.0)
-    googleauth (0.11.0)
+    googleauth (0.12.0)
       faraday (>= 0.17.3, < 2.0)
       jwt (>= 1.4, < 3.0)
       memoist (~> 0.16)
       multi_json (~> 1.11)
       os (>= 0.9, < 2.0)
-      signet (~> 0.12)
+      signet (~> 0.14)
     highline (1.7.10)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
@@ -134,6 +250,10 @@ GEM
       uber (< 0.2.0)
     retriable (3.1.2)
     rouge (2.0.7)
+    rqrcode (1.1.2)
+      chunky_png (~> 1.0)
+      rqrcode_core (~> 0.1)
+    rqrcode_core (0.1.2)
     rubyzip (1.3.0)
     security (0.1.3)
     signet (0.14.0)
@@ -158,7 +278,7 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     word_wrap (1.0.0)
-    xcodeproj (1.15.0)
+    xcodeproj (1.16.0)
       CFPropertyList (>= 2.3.3, < 4.0)
       atomos (~> 0.1.3)
       claide (>= 1.0.2, < 2.0)
@@ -173,7 +293,26 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  fastlane
+  fastlane (= 2.145.0)
+  fastlane-plugin-carlo!
+  fastlane-plugin-debi!
+  fastlane-plugin-fancysida!
+  fastlane-plugin-frank!
+  fastlane-plugin-jinal!
+  fastlane-plugin-jordan!
+  fastlane-plugin-joris!
+  fastlane-plugin-luciano!
+  fastlane-plugin-mario!
+  fastlane-plugin-milan!
+  fastlane-plugin-niels!
+  fastlane-plugin-petar!
+  fastlane-plugin-rajesh!
+  fastlane-plugin-serdar!
+  fastlane-plugin-sergio!
+  fastlane-plugin-socratis!
+  fastlane-plugin-the_illest!
+  fastlane-plugin-uditha!
+  fastlane-plugin-ziya!
 
 RUBY VERSION
    ruby 2.4.1p111

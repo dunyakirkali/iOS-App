@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="00: default_platform" time="0.001119">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="01: milan" time="0.000976">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="02: petar" time="1.445034">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="03: carlo" time="1.802348">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="04: niels" time="0.099681">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="05: mario" time="0.08617">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="06: rajesh" time="0.030779">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="07: jinal" time="0.001323">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="08: ziya" time="0.001133">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="09: joris" time="2.259137">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="10: luciano" time="0.095012">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="11: socratis" time="1.73248">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="12: frank" time="0.001139">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="13: debi" time="3.405011">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="14: the_illest" time="2.461533">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="15: serdar" time="0.001387">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="16: uditha" time="2.689868">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="17: fancysida" time="1.906339">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="18: jordan" time="0.002243">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
