@@ -5,7 +5,27 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.004536">
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.001287">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: qsong" time="0.001309">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: diskspace" time="0.00453">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: jeroen" time="0.065982">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: mega_doughnuts" time="0.028076">
         
       </testcase>
     
